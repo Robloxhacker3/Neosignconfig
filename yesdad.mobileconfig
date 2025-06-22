@@ -33,7 +33,7 @@
       <key>Label</key>
       <string>NeoSign</string>
       <key>URL</key>
-      <string>https://neosign.app</string>
+      <string>https://neo-sign.vercel.app</string>
       <key>IsRemovable</key>
       <true/>
       <key>Precomposed</key>
